@@ -61,7 +61,7 @@ I’ve used a variety of technologies and design patterns to build this app:
 
 2. Open the project in Xcode.
 
-3. Install dependencies (via CocoaPods or Swift Package Manager).
+3. Install dependencies (via Regular framework).
 
 4. Run the app on an iOS device or simulator.
 
