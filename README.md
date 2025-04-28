@@ -43,7 +43,7 @@ I’ve used a variety of technologies and design patterns to build this app:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DailyBuzz.git
+   git clone https://github.com/SoftAyush/DailyBuzz.git
    ```
 
 2. Open the project in Android Studio.
@@ -56,7 +56,7 @@ I’ve used a variety of technologies and design patterns to build this app:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DailyBuzz.git
+   git clone https://github.com/SoftAyush/DailyBuzz.git
    ```
 
 2. Open the project in Xcode.
